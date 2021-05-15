@@ -8,4 +8,4 @@ Under [this link](https://github.com/MicrosoftDocs/azure-docs-powershell/blob/ma
 Please, be advised, that I tested the runbook up to S3 tier and I can't guarantee it will work will properly work with Premium tiers.
 
 # Further reference
-This runbook is part of my blogpost about automating vertical scalling, which you can find here (it's in polish): [https://grzegorzpawlowski.pl/autoscale-scale-up-vertical-runbook](https://grzegorzpawlowski.pl/autoscale-scale-up-vertical-runbook)
+This runbook is part of my blogpost about automating vertical scalling, which you can find here (it's in polish): [https://grzegorzpawlowski.pl/automatyzacja-skalowania-azure/](https://grzegorzpawlowski.pl/automatyzacja-skalowania-azure/)
